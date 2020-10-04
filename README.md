@@ -1,4 +1,6 @@
-# Equipe 8
+# Equipe 8 Code Challenge
+
+<img src="accenture.jpg" alt="accenture" width="550" heigth="90"/>
 
  > Participante | stack
  
@@ -9,6 +11,7 @@
 **Isaac Aleixo** - HTML, CSS, Bootstrap ||
 **Danilo Silva** - HTML,CSS, Bootstrap || Java
 **Matheus Oliveira** - Javascript ||
+
 
 ## Grupo Backend
 
@@ -22,5 +25,3 @@
 **Cristina Dias**
 **Isaac Aleixo** 
 **Danilo Silva**
-
-## Grupo Front-back
