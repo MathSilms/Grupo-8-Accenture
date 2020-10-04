@@ -1,6 +1,6 @@
-# Equipe 8 Code Challenge
+# Equipe 8
 
-<img src="accenture.jpg" alt="accenture" width="550" heigth="90"/>
+<img src="accenture.png" alt="accenture" width="550" heigth="90"/>
 
  > Participante | stack
  
@@ -19,6 +19,7 @@
 **Djeison Luis**
 **Deiwison J.D Paula**
 **Eduardo Jerônimo**
+**Matheus Oliveira** - 
 
 ## Grupo Frontend
 
