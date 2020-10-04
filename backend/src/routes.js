@@ -7,8 +7,6 @@ routes.post('/result', (req, res) =>{
     // Entrada
     let { Codigo } = req.body
 
-    console.log(Codigo)
-
         traducao = Codigo.split(' ').map( letra => {
             return alfabeto[letra]
         }).join('');
