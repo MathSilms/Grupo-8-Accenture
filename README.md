@@ -15,16 +15,15 @@ Equipe foi dividida nas seguintes tecnologias para esta aplicação:
 - **Matheus Oliveira**  - Javascript 
 -  **Eduardo Jerônimo**  - Javascript 
 
-## Grupo Frontend
- - **Cristina Dias** 
- - **Isaac Aleixo** 
- -  **Danilo Silva**
+## Equipe de Desenvolvimento:
 
-## Grupo Backend
+ - **Cristina Dias** - HTML, CSS, Bootstrap, Javascript, React, React Native
+ - **Isaac Aleixo** - HTML, CSS, Bootstrap, Javascript  
+ -  **Danilo Silva** - HTML, CSS, Bootstrap, Javascript  
 
- - **Djeison Luis** 
- -  **Deiwison J.D Paula** 
- -   **Eduardo Jerônimo**        
+ - **Djeison Luis**  - Javascript 
+ -  **Deiwison J.D Paula**  - Javascript 
+ -   **Eduardo Jerônimo**  - Javascript      
 
 
 ### Descrição do sistema:
