@@ -1,26 +1,32 @@
-# Equipe 8
+## Participantes | Aplicação de celular - Equipe 8
 
- > Participante | stack
- 
-**Djeison Luis** - Javascript || Java
-**Deyvison J. Paula** - Javascript || Java
-**Eduardo Jerônimo** - Javascript || Java
-**Cristina Dias** - Javascript ||
-**Isaac Aleixo** - HTML, CSS, Bootstrap ||
-**Danilo Silva** - HTML,CSS, Bootstrap || Java
-**Matheus Oliveira** - Javascript ||
+
+Equipe foi dividida nas seguintes tecnologias para esta aplicação:
+
+**Frontend**
+- **Cristina Dias**  - HTML, CSS, Bootstrap, Javascript  
+- **Isaac Aleixo**  -  HTML, CSS, Bootstrap, Javascript  
+- **Danilo Silva**  - HTML, CSS, Bootstrap, Javascript  
+
+**Backend**
+
+- **Djeison Luis**  - Javascript 
+- **Deiwison J.D Paula**  - Javascript 
+- **Matheus Oliveira**  - Javascript 
+-  **Eduardo Jerônimo**  - Javascript 
+
+## Grupo Frontend
+ - **Cristina Dias** 
+ - **Isaac Aleixo** 
+ -  **Danilo Silva**
 
 ## Grupo Backend
 
+ - **Djeison Luis** 
+ -  **Deiwison J.D Paula** 
+ -   **Eduardo Jerônimo**        
 
-**Djeison Luis**
-**Deiwison J.D Paula**
-**Eduardo Jerônimo**
 
-## Grupo Frontend
+### Descrição do sistema:
 
-**Cristina Dias**
-**Isaac Aleixo** 
-**Danilo Silva**
-
-## Grupo Front-back
+Aplicação de um celular em que o usuário visualiza as informações como um celular antigo dos anos 90.
