@@ -3,7 +3,7 @@
  > Participante | stack
  
 **Djeison Luis** - Javascript || Java
-**Deiwison J.D Paula** - Javascript || Java
+**Deyvison J. Paula** - Javascript || Java
 **Eduardo Jerônimo** - Javascript || Java
 **Cristina Dias** - Javascript ||
 **Isaac Aleixo** - HTML, CSS, Bootstrap ||
