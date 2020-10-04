@@ -4,7 +4,7 @@ const routes = express.Router();
 // user routes
 routes.post('/result', (req, res) =>{
     // Entrada
-    let { number } = req.body
+    let { Codigo } = req.body
     let alfabeto = {
         '2': 'a',
         '22': 'b',
