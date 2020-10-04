@@ -17,13 +17,14 @@ Equipe foi dividida nas seguintes tecnologias para esta aplicação:
 
 ## Equipe de Desenvolvimento:
 
- - **Cristina Dias** - HTML, CSS, Bootstrap, Javascript, React, React Native
- - **Isaac Aleixo** - HTML, CSS, Bootstrap, Javascript  
- -  **Danilo Silva** - HTML, CSS, Bootstrap, Javascript  
+ - **Cristina Dias** - HTML, CSS, Bootstrap, Javascript, React, React Native, Java
+ - **Isaac Aleixo** - HTML, CSS, Bootstrap, Javascript, Android (Kotlin)  
+ - **Danilo Silva** - HTML, CSS, Bootstrap, Javascript, Java  
 
- - **Djeison Luis**  - Javascript 
- -  **Deiwison J.D Paula**  - Javascript 
- -   **Eduardo Jerônimo**  - Javascript      
+ - **Djeison Luis**  - Javascript, Java
+ - **Deiwison J.D Paula**  - React, React Native, Javascript, Java 
+ - **Eduardo Jerônimo**  - Javascript, Java   
+ - **Matheus Oliveira**  - Javascript, Java
 
 
 ### Descrição do sistema:
